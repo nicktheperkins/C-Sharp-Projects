@@ -1,0 +1,6 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math String Challenge\Math String Challenge\bin\Debug\Math String Challenge.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math String Challenge\Math String Challenge\bin\Debug\Math String Challenge.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math String Challenge\Math String Challenge\bin\Debug\Math String Challenge.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math String Challenge\Math String Challenge\obj\Debug\Math String Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math String Challenge\Math String Challenge\obj\Debug\Math String Challenge.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Math String Challenge\Math String Challenge\obj\Debug\Math String Challenge.pdb
