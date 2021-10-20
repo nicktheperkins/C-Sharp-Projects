@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.pdb
