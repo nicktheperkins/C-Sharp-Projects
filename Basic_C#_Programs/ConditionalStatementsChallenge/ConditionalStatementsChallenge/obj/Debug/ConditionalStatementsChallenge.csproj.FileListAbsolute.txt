@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\bin\Debug\ConditionalStatementsChallenge.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ConditionalStatementsChallenge\ConditionalStatementsChallenge\obj\Debug\ConditionalStatementsChallenge.pdb
