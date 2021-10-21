@@ -32,23 +32,31 @@ namespace ShippingQuoteApp
             Console.WriteLine("Please enter the package width:");
             string sWidth = Console.ReadLine();
             int width = Convert.ToInt32(sWidth);
-            if (width > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express. Have a good day.");
-                Console.ReadLine();
-                return;
-            }
-            else
-            {
-                Console.WriteLine("Press enter to continue.");
-                Console.ReadLine();
-            }
+            //if (width > 50)
+            //{
+            //    Console.WriteLine("Package too big to be shipped via Package Express. Have a good day.");
+            //    Console.ReadLine();
+            //    return;
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Press enter to continue.");
+            //    Console.ReadLine();
+            //}
 
             // Asks the user to input the package height and evaluates whether the package is to big or not. If the package is to big then the program ends.
             Console.WriteLine("Please enter the package height:");
             string sHeight = Console.ReadLine();
             int height = Convert.ToInt32(sHeight);
-            if (height > 50)
+
+
+            // Asks the user to input the package length and evaluates whether the package is to big or not. If the package is to big the program ends.
+            Console.WriteLine("Pleae enter the package length:");
+            string sLength = Console.ReadLine();
+            int length = Convert.ToInt32(sLength);
+
+            // If the dimension total to greater than 50 then display the error message and closes the program.
+            if ((width + height + length) > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express. Have a good day.");
                 Console.ReadLine();
@@ -56,23 +64,7 @@ namespace ShippingQuoteApp
             }
             else
             {
-                Console.WriteLine("Press enter to continue.");
-                Console.ReadLine();
-            }
-
-            // Asks the user to input the package length and evaluates whether the package is to big or not. If the package is to big the program ends.
-            Console.WriteLine("Pleae enter the package length:");
-            string sLength = Console.ReadLine();
-            int length = Convert.ToInt32(sLength);
-            if (length > 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express. Have a good day");
-                Console.ReadLine();
-                return;
-            }
-            else
-            {
-                Console.WriteLine("Press enter to continue.");
+                Console.WriteLine("Press enter to continue to your estimate.");
                 Console.ReadLine();
             }
 
