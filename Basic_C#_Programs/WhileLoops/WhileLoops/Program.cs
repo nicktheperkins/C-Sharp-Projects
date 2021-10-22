@@ -10,6 +10,7 @@ namespace WhileLoops
     {
         static void Main(string[] args)
         {
+            // This is a while loop that iterates through five numbers 1-5.
             int i = 1;
             while (i < 6)
             {
@@ -17,9 +18,11 @@ namespace WhileLoops
                 i++;
             }
 
+            // This is an entry message to start the guessing portion of this program
             Console.WriteLine("Guess a number between 1 and 5.");
             int number = Convert.ToInt32(Console.ReadLine());
 
+            // This is a boolean comparison using a do while loop. The program will keep asking the user to guess a number until they guess the right number
             bool guess = number == 5;
             do
             {
