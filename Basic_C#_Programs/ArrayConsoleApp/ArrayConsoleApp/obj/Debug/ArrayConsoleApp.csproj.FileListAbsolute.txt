@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.pdb
