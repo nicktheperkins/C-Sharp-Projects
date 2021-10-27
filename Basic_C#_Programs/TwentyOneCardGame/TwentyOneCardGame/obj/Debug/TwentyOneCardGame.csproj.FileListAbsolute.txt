@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGame\TwentyOneCardGame\bin\Debug\TwentyOneCardGame.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneCardGame\TwentyOneCardGame\obj\Debug\TwentyOneCardGame.pdb

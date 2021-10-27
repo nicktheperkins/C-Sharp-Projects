@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MathOperationsUsingMethods\MathOperationsUsingMethods\bin\Debug\MathOperationsUsingMethods.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MathOperationsUsingMethods\MathOperationsUsingMethods\bin\Debug\MathOperationsUsingMethods.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MathOperationsUsingMethods\MathOperationsUsingMethods\bin\Debug\MathOperationsUsingMethods.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MathOperationsUsingMethods\MathOperationsUsingMethods\obj\Debug\MathOperationsUsingMethods.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MathOperationsUsingMethods\MathOperationsUsingMethods\obj\Debug\MathOperationsUsingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MathOperationsUsingMethods\MathOperationsUsingMethods\obj\Debug\MathOperationsUsingMethods.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MathOperationsUsingMethods\MathOperationsUsingMethods\obj\Debug\MathOperationsUsingMethods.pdb
