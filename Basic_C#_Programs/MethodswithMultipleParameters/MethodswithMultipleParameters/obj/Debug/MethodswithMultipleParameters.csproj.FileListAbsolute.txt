@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MethodswithMultipleParameters\MethodswithMultipleParameters\bin\Debug\MethodswithMultipleParameters.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MethodswithMultipleParameters\MethodswithMultipleParameters\bin\Debug\MethodswithMultipleParameters.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MethodswithMultipleParameters\MethodswithMultipleParameters\bin\Debug\MethodswithMultipleParameters.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MethodswithMultipleParameters\MethodswithMultipleParameters\obj\Debug\MethodswithMultipleParameters.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MethodswithMultipleParameters\MethodswithMultipleParameters\obj\Debug\MethodswithMultipleParameters.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MethodswithMultipleParameters\MethodswithMultipleParameters\obj\Debug\MethodswithMultipleParameters.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MethodswithMultipleParameters\MethodswithMultipleParameters\obj\Debug\MethodswithMultipleParameters.csproj.AssemblyReference.cache
