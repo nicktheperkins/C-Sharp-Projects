@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MoreOpsUsingMethods\MoreOpsUsingMethods\bin\Debug\MoreOpsUsingMethods.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MoreOpsUsingMethods\MoreOpsUsingMethods\bin\Debug\MoreOpsUsingMethods.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MoreOpsUsingMethods\MoreOpsUsingMethods\bin\Debug\MoreOpsUsingMethods.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MoreOpsUsingMethods\MoreOpsUsingMethods\obj\Debug\MoreOpsUsingMethods.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MoreOpsUsingMethods\MoreOpsUsingMethods\obj\Debug\MoreOpsUsingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MoreOpsUsingMethods\MoreOpsUsingMethods\obj\Debug\MoreOpsUsingMethods.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\MoreOpsUsingMethods\MoreOpsUsingMethods\obj\Debug\MoreOpsUsingMethods.pdb
