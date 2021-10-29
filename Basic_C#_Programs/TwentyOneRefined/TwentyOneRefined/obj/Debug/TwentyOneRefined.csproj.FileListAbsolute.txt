@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneRefined\TwentyOneRefined\bin\Debug\TwentyOneRefined.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneRefined\TwentyOneRefined\bin\Debug\TwentyOneRefined.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneRefined\TwentyOneRefined\bin\Debug\TwentyOneRefined.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneRefined\TwentyOneRefined\obj\Debug\TwentyOneRefined.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneRefined\TwentyOneRefined\obj\Debug\TwentyOneRefined.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneRefined\TwentyOneRefined\obj\Debug\TwentyOneRefined.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\TwentyOneRefined\TwentyOneRefined\obj\Debug\TwentyOneRefined.pdb

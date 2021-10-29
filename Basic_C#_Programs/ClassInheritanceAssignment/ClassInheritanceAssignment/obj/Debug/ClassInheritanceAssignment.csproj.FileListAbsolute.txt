@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ClassInheritanceAssignment\ClassInheritanceAssignment\bin\Debug\ClassInheritanceAssignment.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ClassInheritanceAssignment\ClassInheritanceAssignment\bin\Debug\ClassInheritanceAssignment.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ClassInheritanceAssignment\ClassInheritanceAssignment\bin\Debug\ClassInheritanceAssignment.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ClassInheritanceAssignment\ClassInheritanceAssignment\obj\Debug\ClassInheritanceAssignment.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ClassInheritanceAssignment\ClassInheritanceAssignment\obj\Debug\ClassInheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ClassInheritanceAssignment\ClassInheritanceAssignment\obj\Debug\ClassInheritanceAssignment.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\ClassInheritanceAssignment\ClassInheritanceAssignment\obj\Debug\ClassInheritanceAssignment.pdb
