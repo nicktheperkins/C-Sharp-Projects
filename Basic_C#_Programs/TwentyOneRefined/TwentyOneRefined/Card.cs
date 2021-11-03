@@ -1,8 +1,8 @@
 ﻿using System;
 
 namespace TwentyOneRefined
-{
-    public class Card
+{   // Changes this from a class a stuct because nothing inherits Card and we don't want the cards to change.
+    public struct Card
     {   //// This was commented out since we are using enums now.
         //public Card()
         //{
