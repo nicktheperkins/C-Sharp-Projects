@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\GenericTypesAssignment\GenericTypesAssignment\obj\Debug\GenericTypesAssignment.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\GenericTypesAssignment\GenericTypesAssignment\obj\Debug\GenericTypesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\GenericTypesAssignment\GenericTypesAssignment\bin\Debug\GenericTypesAssignment.exe.config
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\GenericTypesAssignment\GenericTypesAssignment\bin\Debug\GenericTypesAssignment.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\GenericTypesAssignment\GenericTypesAssignment\bin\Debug\GenericTypesAssignment.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\GenericTypesAssignment\GenericTypesAssignment\obj\Debug\GenericTypesAssignment.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\GenericTypesAssignment\GenericTypesAssignment\obj\Debug\GenericTypesAssignment.pdb
