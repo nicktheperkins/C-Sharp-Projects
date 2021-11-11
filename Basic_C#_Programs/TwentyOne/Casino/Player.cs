@@ -4,10 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Player
     {
+        // Constructor Call Chain
+        public Player(string name) : this(name, 100) // This constructor is saying assign name to Name, but if they don't provide a beginnning balance give a default balance of 100.
+        {
+
+        }
+
         public Player(string name, int beginningBalance)
         {
             Hand = new List<Card>();
@@ -20,6 +26,7 @@ namespace TwentyOne
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
         public bool Stay { get; set; }
+        public Guid Id { get; set; } // This is a guid property called Id.
 
         public bool Bet(int amount)
         {
