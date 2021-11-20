@@ -1,0 +1,29 @@
+﻿@* no-gutters means no space between the columns, m-3 is a 1.5em margin around the entire div *@
+<div class="row no-gutters m-3">
+    @* card is a bootstrap class, col-sm-12 means take up 12 columns on a small screen (medium 10 columns, large 6 columns), mx-auto means margin on the x-axis is set to auto to center the card in the middle, shadow adds a box shadow around the card.*@
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+         @* card-header adds a header, text-center centers the text *@
+         <div class="card-header text-center">
+            <h5 class="m-0">Sign up to our newsletter</h5>
+         </div>
+         <div class="card-body">
+           @* This is an HTML helper. It is a short tag that provides somewhat complicated HTML. It uses the SignUp method inside the Home controller. The method is a post method. *@
+           @using (Html.BeginForm("SignUp", "Home", FormMethod.Post))
+           {
+            <div class="row no-gutters">
+              <div class="form-group col-md-12">
+                <input name="FirstName" type="text" class="form-control" placeholder="First Name" /> @* form-control is a bootstrap styling class *@
+              </div>
+              <div class="form-group col-md-12">
+                <input name="LastName" type="text" class="form-control" placeholder="Last Name" /> @* form-control is a bootstrap styling class *@
+              </div>
+              <div class="form-group col-md-12">
+                <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" /> @* form-control is a bootstrap styling class *@
+              </div>
+              @* btn-block means it take up the entire row, and btn-primary gives it the primary color.*@
+              <button type="submit" class="btn btn-block btn-primary">Submit</button>
+            </div>
+           }
+         </div>
+    </div>
+</div>
