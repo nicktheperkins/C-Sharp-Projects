@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{ 
+    DateTime serverTime = DateTime.Now; // Gives the current time in server timeZone
+    DateTime utcTime = DateTime.UtcNow; // Converts it to UTC using timezone setting of server computer
+
+    TimeZoneInfo tzi = TimeZoneInfo.Local; // Finds the local timezone info
+    DateTime localTime = TimeZoneInfo.ConvertTimeFromUtc(utcTime, tzi); // convert from UTC to local
+}
+
+<div class="text-center">
+    <h2 class="display-4">Server Time: @serverTime <br/> UTC Time: @utcTime <br/> Time Zone Info: @tzi <br/> Local Time: @localTime</h2>
+</div>

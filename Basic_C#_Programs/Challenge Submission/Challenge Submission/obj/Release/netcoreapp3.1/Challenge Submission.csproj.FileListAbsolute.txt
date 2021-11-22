@@ -1,0 +1,36 @@
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.exe
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.deps.json
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.runtimeconfig.json
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.runtimeconfig.dev.json
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.dll
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.Views.dll
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\bin\Release\netcoreapp3.1\Challenge Submission.Views.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.AssemblyInfo.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.RazorAssemblyInfo.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.RazorAssemblyInfo.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\staticwebassets\Challenge Submission.StaticWebAssets.Manifest.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.TagHelpers.input.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.TagHelpers.output.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.RazorCoreGenerate.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.RazorTargetAssemblyInfo.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.RazorTargetAssemblyInfo.cs
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.Views.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.dll
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.pdb
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.genruntimeconfig.cache
+C:\Users\Nick\Documents\GitHub\C-Sharp-Projects\Basic_C#_Programs\Challenge Submission\Challenge Submission\obj\Release\netcoreapp3.1\Challenge Submission.csproj.CopyComplete

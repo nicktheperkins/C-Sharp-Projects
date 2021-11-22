@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OJjOotAexmVWPLcTCGQlNpQN7NzN4khqnW6vsmjde36ocqSaHqxLemWnkJ17zjbMU+dDlb3vSw+zQX5rLM+3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nick\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Challenge Submission\\Challenge Submission\\Challenge Submission.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nick\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
