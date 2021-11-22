@@ -4,7 +4,7 @@ These are some small projects I made using C# and .NET Framework.
 ## Projects
 
 * [Car Insurance](https://github.com/nicktheperkins/C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance)
-* [Newsletter Subscription App](https://github.com/nicktheperkins/Python-Projects/tree/main/Challenges/File%20Transfer%20Assignment)
+* [Newsletter Subscription App](https://github.com/nicktheperkins/C-Sharp-Projects/tree/main/Basic_C%23_Programs/NewsletterAppMVC)
 
 
 ### Car Insurance
