@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Nf8ERfStw0XjCfNcTuBxwPjpUIwGcJNspZlbeTyKpml1FP3ytMks3HQbMpnbri17oszatlvl6UOs9wUwyqTaAw==",
+  "dgSpecHash": "f3+n+FzFksxFP7pEJ/4p8+ppkdgKYzcBTk4clWwfUBesERI2ZLozQm/25DY970UqlhzffgmnODZBked8OCVY4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nick\\Documents\\GitHub\\C-Sharp-Projects\\Basic_C#_Programs\\Scores\\Scores\\Scores.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nick\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
